@@ -1,6 +1,6 @@
 # Bunny Game
 ## **Introduction**
-This repository contains a simple bunny game implemented by openGL.
+This repository contains a simple bunny game implemented with openGL.
 
 ## **Installation**
 * Make sure you have all the dependency frameworks in your system
